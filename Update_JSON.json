@@ -1,15 +1,15 @@
 {
-  "homepage": "<homepage/download page for your mod>",
+  "homepage": "link.link.com",
   "<mcversion>": {
-    "<modversion>": "<changelog for this version>", 
+    "1.0.0.0": "no changes yet", 
     // List all versions of your mod for the given Minecraft version, along with their changelogs
     ...
   },
   ...
   "promos": {
-    "<mcversion>-latest": "<modversion>",
+    "1.0.0.0-latest": "<modversion>",
     // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "<mcversion>-recommended": "<modversion>",
+    "1.0.0.0-recommended": "<modversion>",
     // Declare the latest "stable" version of your mod for the given Minecraft version
     ...
   }
