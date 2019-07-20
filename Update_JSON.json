@@ -2,12 +2,9 @@
   "homepage": "link.link.com",
   "<mcversion>": {
     "1.0.0.0": "no changes yet", 
-    ...
   },
-  ...
   "promos": {
     "1.0.0.0-latest": "<modversion>",
     "1.0.0.0-recommended": "<modversion>",
-    ...
   }
 }
