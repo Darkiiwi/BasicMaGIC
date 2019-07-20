@@ -2,15 +2,12 @@
   "homepage": "link.link.com",
   "<mcversion>": {
     "1.0.0.0": "no changes yet", 
-    // List all versions of your mod for the given Minecraft version, along with their changelogs
     ...
   },
   ...
   "promos": {
     "1.0.0.0-latest": "<modversion>",
-    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
     "1.0.0.0-recommended": "<modversion>",
-    // Declare the latest "stable" version of your mod for the given Minecraft version
     ...
   }
 }
